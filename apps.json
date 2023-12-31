@@ -1,18 +1,18 @@
 [
-{
-"url": "https://github.com/frappe/erpnext",
-"branch": "v14.53.0"
-},
-{
-"url": "https://gitlab.com/excel.azmin/whitelabel.git",
-"branch": "main"
-},
-{
-"url": "https://gitlab.com/arcapps/excel_valuation.git",
-"branch": "master"
-},
-{
-"url": "https://gitlab.com/arcapps/excel_manufacturing.git",
-"branch": "master"
-}
+    {
+    "url": "https://github.com/frappe/erpnext",
+    "branch": "v14.53.0"
+    },
+    {
+    "url": "https://gitlab.com/excel.azmin/whitelabel.git",
+    "branch": "main"
+    },
+    {
+    "url": "https://gitlab.com/arcapps/excel_valuation.git",
+    "branch": "master"
+    },
+    {
+    "url": "https://gitlab.com/arcapps/excel_manufacturing.git",
+    "branch": "master"
+    }
 ]
